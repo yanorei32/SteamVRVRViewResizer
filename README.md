@@ -1,3 +1,10 @@
+# NO ACTIVE DEVELOPMENT!
+
+This project is currently unmaintained!
+
+Please use the ***winresz***.  
+https://github.com/yanorei32/winresz
+
 # SteamVR VRView Resizer
 ![image](https://user-images.githubusercontent.com/11992915/75449772-7fdd4d00-5965-11ea-9fde-03bff24bc51d.png)
 
